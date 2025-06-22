@@ -163,7 +163,13 @@ You can export this map to the web using:
 - [QGIS](https://qgis.org/)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 
-
 ---
 
-> **Built with QGIS + Python to bring seismic intelligence to your desktop in real-time.**
+## 🙋‍♂️ About
+
+Created by **A. Sencer Gözübenli**  
+Data Engineer  
+*Focusing on supply chain analytics, geospatial risk modeling, and data-informed decision systems.*
+
+---
+> **Built with ❤️ + QGIS + Python to bring seismic intelligence to your desktop in real-time.**
